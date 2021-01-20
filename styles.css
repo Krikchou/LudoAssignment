@@ -653,3 +653,23 @@
     height: 80%;
     border-radius: 50%;
 }
+
+.y-pl{
+    background: yellow;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+}
+
+.r-pl{
+    background:red;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+}
+.g-pl{
+    background:green;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+}
